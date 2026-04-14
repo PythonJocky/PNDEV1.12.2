@@ -5556,6 +5556,88 @@ public class LepidodendronSorter {
 
     public static final int notocyamus = 8419;
     public static final int notocyamus_flower = 8420;
+    
+    public static final int trochodendroides_bench = 8421;
+    public static final int trochodendroides_boat_item = 8422;
+    public static final int trochodendroides_bridge = 8423;
+    public static final int trochodendroides_door = 8424;
+    public static final int trochodendroides_door_item = 8425;
+    public static final int trochodendroides_fence = 8426;
+    public static final int trochodendroides_fence_gate = 8427;
+    public static final int trochodendroides_leaves = 8428;
+    public static final int trochodendroides_litterbin = 8429;
+    public static final int trochodendroides_log = 8430;
+    public static final int trochodendroides_planks = 8431;
+    public static final int trochodendroides_planter1 = 8432;
+    public static final int trochodendroides_planter1_peat = 8433;
+    public static final int trochodendroides_planter1_sand = 8434;
+    public static final int trochodendroides_planter2 = 8435;
+    public static final int trochodendroides_planter2_peat = 8436;
+    public static final int trochodendroides_planter2_sand = 8437;
+    public static final int trochodendroides_sapling = 8438;
+    public static final int trochodendroides_seeds = 8439;
+    public static final int trochodendroides_slab = 8440;
+    public static final int trochodendroides_stairs = 8441;
+    public static final int trochodendroides_trapdoor = 8442;
+
+
+    public static final int cercidiphyllum_leaves = 8443;
+    public static final int cercidiphyllum_sapling = 8444;
+    public static final int cercidiphyllum_seeds = 8445;
+
+    public static final int mahogany_bench = 8446;
+    public static final int mahogany_boat_item = 8447;
+    public static final int mahogany_bridge = 8448;
+    public static final int mahogany_door = 8449;
+    public static final int mahogany_door_item = 8450;
+    public static final int mahogany_fence = 8451;
+    public static final int mahogany_fence_gate = 8452;
+    public static final int mahogany_leaves = 8453;
+    public static final int mahogany_litterbin = 8454;
+    public static final int mahogany_log = 8455;
+    public static final int mahogany_planks = 8456;
+    public static final int mahogany_planter1 = 8457;
+    public static final int mahogany_planter1_peat = 8458;
+    public static final int mahogany_planter1_sand = 8459;
+    public static final int mahogany_planter2 = 8460;
+    public static final int mahogany_planter2_peat = 8461;
+    public static final int mahogany_planter2_sand = 8462;
+    public static final int mahogany_sapling = 8463;
+    public static final int mahogany_seeds = 8464;
+    public static final int mahogany_slab = 8465;
+    public static final int mahogany_stairs = 8466;
+    public static final int mahogany_trapdoor = 8467;
+    public static final int mahogany_fruit_block = 8468;
+
+    public static final int cinnamon_bench = 8446;
+    public static final int cinnamon_boat_item = 8447;
+    public static final int cinnamon_bridge = 8448;
+    public static final int cinnamon_door = 8449;
+    public static final int cinnamon_door_item = 8450;
+    public static final int cinnamon_fence = 8451;
+    public static final int cinnamon_fence_gate = 8452;
+    public static final int cinnamon_leaves = 8453;
+    public static final int cinnamon_litterbin = 8454;
+    public static final int cinnamon_log = 8455;
+    public static final int cinnamon_planks = 8456;
+    public static final int cinnamon_planter1 = 8457;
+    public static final int cinnamon_planter1_peat = 8458;
+    public static final int cinnamon_planter1_sand = 8459;
+    public static final int cinnamon_planter2 = 8460;
+    public static final int cinnamon_planter2_peat = 8461;
+    public static final int cinnamon_planter2_sand = 8462;
+    public static final int cinnamon_sapling = 8463;
+    public static final int cinnamon_seed = 8464;
+    public static final int cinnamon_slab = 8465;
+    public static final int cinnamon_stairs = 8466;
+    public static final int cinnamon_trapdoor = 8467;
+    public static final int cinnamon_fruit_block = 8468;
+    public static final int cinnamon_berries = 8464;
+
+    public static final int soepadmoa_sapling = 8465;
+    public static final int soepadmoa_leaves = 8466;
+    public static final int soepadmoa_seeds = 8467;
+    
     //Rob list ends-----
 
     public static final int priscomyzon_raw = 4974;
@@ -6222,6 +6304,12 @@ public class LepidodendronSorter {
     public static final int eggs_yutyrannus = 5654;
     public static final int microraptor_raw = 5655;
     public static final int eggs_microraptor = 5656;
+    public static final int tarbosaurus_raw = 5657;
+    public static final int eggs_tarbosaurus = 5658;
+    public static final int struthiomimus_raw = 5659;
+    public static final int eggs_struthiomimus = 5660;
+    public static final int protoceratops_raw = 5661;
+    public static final int eggs_protoceratops = 5662;
     public static final int changxingaspis_raw = 5628;
     public static final int loganellia_raw = 5629;
     public static final int bianchengichthys_raw = 5630;
@@ -6257,7 +6345,17 @@ public class LepidodendronSorter {
     public static final int callawayasaurus_raw= 5683;
     public static final int myobradypterygius_raw= 5683;
     public static final int umoonasaurus_raw= 5683;
-
+    public static final int bivalve_pinna= 5701;
+    public static final int bivalve_diceras= 5702;
+    public static final int bivalve_epidiceras= 5703;
+    public static final int bivalve_homopleura= 5704;
+    public static final int bivalve_texicaprina= 5705;
+    public static final int bivalve_caprina= 5706;
+    public static final int bivalve_agriopleura= 5706;
+    public static final int bivalve_caprinula= 5707;
+    public static final int bivalve_monopleura= 5708;
+    public static final int bivalve_polyconites= 5709;
+    public static final int eoandromedastatic= 5710;
     public static final int irritator_raw = 5800;
     public static final int spinosaurus_raw = 5801;
     public static final int eggs_irritator = 5802;
@@ -6444,6 +6542,15 @@ public class LepidodendronSorter {
     public static final int cratosirex_raw = 5983;
     public static final int raptoblatta_raw = 5984;
     public static final int rafaeliana_raw = 5985;
+    public static final int macromyzon_raw = 5986;
+    public static final int icarosaurus_raw = 5987;
+    public static final int eggs_icarosaurus = 5988;
+    public static final int palaeopalaemon_raw = 5989;
+    public static final int peltobatrachus_raw = 5990;
+    public static final int abyssosaurus_raw = 5991;
+    public static final int iberobatrachus_raw = 5992;
+    public static final int liaobatrachus_raw = 5993;
+
 
     public static final int bivalve_toucasia = 6000;
     public static final int coeloptychium = 6001;

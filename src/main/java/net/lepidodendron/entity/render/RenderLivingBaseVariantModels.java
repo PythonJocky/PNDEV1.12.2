@@ -224,6 +224,10 @@ public abstract class RenderLivingBaseVariantModels<T extends EntityLivingBase> 
         {
             this.renderLeash(entity, x, y, z, entityYaw, partialTicks);
         }
+
+        if (!this.renderOutlines) {
+            this.renderName(entity, x, y, z);
+        }
     }
 
     private double interpolateValue(double start, double end, double pct)

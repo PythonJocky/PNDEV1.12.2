@@ -147,13 +147,15 @@ public class AcidBathOutputPlants {
 
     public static String[] getCambrianCleanedFossilsPlants() {
         String[] resLoc = {
+                ForgeRegistries.BLOCKS.getKey(BlockTawuia.block).toString(),
                 ForgeRegistries.BLOCKS.getKey(BlockGreenAlgaeMat.block).toString(),
                 ForgeRegistries.BLOCKS.getKey(BlockRedAlgaeMat.block).toString(),
                 ForgeRegistries.BLOCKS.getKey(BlockStromatolite.block).toString(),
                 ForgeRegistries.BLOCKS.getKey(BlockThrombolite.block).toString(),
                 ForgeRegistries.BLOCKS.getKey(BlockGirvanella.block).toString(),
                 ForgeRegistries.BLOCKS.getKey(BlockGreenSproutingAlgae.block).toString(),
-                ForgeRegistries.BLOCKS.getKey(BlockBacterialCrust.block).toString()
+                ForgeRegistries.BLOCKS.getKey(BlockBacterialCrust.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockEukaryoticMat.block).toString()
         };
         resLoc = ArrayUtils.addAll(resLoc, LepidodendronConfig.revPlantsCambrian);
         return resLoc;
@@ -955,6 +957,7 @@ public class AcidBathOutputPlants {
                 ForgeRegistries.BLOCKS.getKey(BlockDasypogonSapling.block).toString(),
                 ForgeRegistries.BLOCKS.getKey(BlockDipteris.block).toString(),
                 ForgeRegistries.ITEMS.getKey(ItemNotocyamusItem.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockTrochodendroidesSapling.block).toString(),
                 "minecraft:spruce_sapling",
                 "minecraft:small_fern",
                 "minecraft:large_fern"
@@ -1182,6 +1185,9 @@ public class AcidBathOutputPlants {
                 ForgeRegistries.ITEMS.getKey(ItemSaururusItem.block).toString(),
                 ForgeRegistries.ITEMS.getKey(ItemReedsItem.block).toString(),
                 ForgeRegistries.ITEMS.getKey(ItemSeedyGrassItem.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockTrochodendroidesSapling.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockMahoganySapling.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockCinnamonSapling.block).toString(),
                 "minecraft:oak_sapling",
                 "minecraft:dark_oak_sapling",
                 "minecraft:spruce_sapling",
@@ -1364,6 +1370,10 @@ public class AcidBathOutputPlants {
                 ForgeRegistries.ITEMS.getKey(ItemSaururusItem.block).toString(),
                 ForgeRegistries.ITEMS.getKey(ItemReedsItem.block).toString(),
                 ForgeRegistries.ITEMS.getKey(ItemSeedyGrassItem.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockTrochodendroidesSapling.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockCercidiphyllumSapling.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockMahoganySapling.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockCinnamonSapling.block).toString(),
                 "minecraft:oak_sapling",
                 "minecraft:acacia_sapling",
                 "minecraft:dark_oak_sapling",
@@ -1550,6 +1560,9 @@ public class AcidBathOutputPlants {
                 ForgeRegistries.ITEMS.getKey(ItemSaururusItem.block).toString(),
                 ForgeRegistries.ITEMS.getKey(ItemReedsItem.block).toString(),
                 ForgeRegistries.ITEMS.getKey(ItemSeedyGrassItem.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockCercidiphyllumSapling.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockMahoganySapling.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockCinnamonSapling.block).toString(),
                 "minecraft:oak_sapling",
                 "minecraft:acacia_sapling",
                 "minecraft:dark_oak_sapling",
@@ -1740,6 +1753,9 @@ public class AcidBathOutputPlants {
                 ForgeRegistries.ITEMS.getKey(ItemSaururusItem.block).toString(),
                 ForgeRegistries.ITEMS.getKey(ItemReedsItem.block).toString(),
                 ForgeRegistries.ITEMS.getKey(ItemSeedyGrassItem.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockCercidiphyllumSapling.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockMahoganySapling.block).toString(),
+                ForgeRegistries.BLOCKS.getKey(BlockCinnamonSapling.block).toString(),
                 "minecraft:oak_sapling",
                 "minecraft:acacia_sapling",
                 "minecraft:dark_oak_sapling",
